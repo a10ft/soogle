@@ -1,0 +1,36 @@
+@import url('https://fonts.google.com/earlyaccess');
+
+
+.searchForm{
+    display: table;
+    align-items: center;
+    top: 200px;
+    width : 300px;
+    height: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+.searchBox{
+    width : 300px;
+    line-height: 30px;
+    font-size: 17px;
+    max-width: 800px;
+}
+
+
+body{
+    background-color: #F8F8F8;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    padding-top: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    max-width: 800px;
+    text-align: center;
+}
